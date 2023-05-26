@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { Row, Card, Form, Button, Stack, Col } from "react-bootstrap";
+import { Row, Card, Form, Button, Stack } from "react-bootstrap";
 import { FaEdit, FaTrash } from "react-icons/fa";
 import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
